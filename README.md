@@ -1,3 +1,3 @@
 # osTicket-Post-Installation-Configuration-and-lifecycle-examples
 
-<h3>Watch Youtube - <a href="https://youtu.be/ZrFCnkAESEw" target="_blank">Watch the Process on Youtube </a>  </h3>
+<h3>Check out - <a href="https://youtu.be/ZrFCnkAESEw" target="_blank">Youtube - Configuring osTicket and Ticket lifecycle </a>  </h3>
